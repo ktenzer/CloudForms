@@ -1,4 +1,4 @@
-#/bin/sh
+#!/bin/sh
 rawdisk="cfme-azure-5.7.0.17-1.raw"
 vhddisk="cfme-azure-5.7.0.17-1.vhd"
 MB=$((1024*1024))
